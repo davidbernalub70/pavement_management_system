@@ -1,5 +1,8 @@
 streamlit
 pandas
+geopandas
 folium
 streamlit-folium
 openpyxl
+fiona
+google-genai
